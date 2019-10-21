@@ -1,4 +1,4 @@
-# Welcome to my blog
+# Welcome to my blaug
 
 I'm glad you are here. I plan to talk about:
 
@@ -8,7 +8,7 @@ I'm glad you are here. I plan to talk about:
 * Vim
 
 
-Do you know how to tell if someone uses vim?   
+Do you know how to tell if someone uses vim?
 
 
 They'll tell you!
