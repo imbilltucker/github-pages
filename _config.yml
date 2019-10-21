@@ -13,4 +13,6 @@ github_username: "@imbilltucker"
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+markdown: kramdown
+
 theme: minima
