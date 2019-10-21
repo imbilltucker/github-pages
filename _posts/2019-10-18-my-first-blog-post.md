@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "What should we talk about?"
 date: 2019-10-18
 ---
 
